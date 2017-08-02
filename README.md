@@ -1,3 +1,5 @@
 # MyWebDev01
-HTML + CSS
-2.08.2017
+training Web Project
+HTML + CSS + JavaScript + PHP + MySQL
+with Atom Xed Firefox phpMyAdmin MySQL Workbench
+beginning 2.08.2017
