@@ -1,5 +1,5 @@
 # MyWebDev01
-training Web Project 2019
+Training Web Site Project 2019
 
 HTML5 + CSS3 + JavaScript + PHP + MariaDB
 with Atom Xed Firefox phpMyAdmin MySQL Workbench
